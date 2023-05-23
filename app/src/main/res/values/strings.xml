@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Own Calculator</string>
+    <string name="toast_massage">Can\'t divide by zero</string>
+</resources>
